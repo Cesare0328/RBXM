@@ -22,7 +22,6 @@ RBXM is a program that can spoof internal versions to freeze forced updates perm
 - 📥 [Download](https://github.com/Cesare0328/RBXM/releases)
 
 ---
-1.) Start either Roblox or Roblox Modder first, then launch the other application. 2.) Allow the modder to complete its process. 3.) Your Roblox instance is now permanently modified to the latest version of UWP Roblox. Please note: This method is only effective for multiple instances and does not apply to the official Roblox application from the Microsoft Store, unless you have removed the directory lock for that path.
 ## ℹ️ How To Use & INFO
 - 1.) Start either Roblox or Roblox Modder first, then launch the other application.
 - 2.) Allow the modder to complete its process.
